@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+* {
+    font-family: 'Overpass', sans-serif;
+}
+
+.heading {
+    font-family: 'Creepster';
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.hero {
+    background-image: url("./assets//hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero2 {
+    background-image: url('https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/bg-07.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.productsSection {
+    background-image: url("./assets/BG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+@media(max-width : 666px) {
+    .productsSection {
+        background-size: contain;
+    }
+}
+
+th,
+td {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

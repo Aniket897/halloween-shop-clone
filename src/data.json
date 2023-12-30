@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Boo-tiful Buttercookies",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-03-a-300x300.jpg",
+        "price": 21,
+        "category": "candies & cookies"
+    },
+    {
+        "id": 2,
+        "name": "Ghostly Gingersnaps",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-01-a-300x300.jpg",
+        "price": 27,
+        "category": "candies & cookies"
+    },
+    {
+        "id": 3,
+        "name": "Zombie Zest Cookies",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-02-a-300x300.jpg",
+        "price": 35,
+        "category": "candies & cookies"
+    },
+    {
+        "id": 4,
+        "name": "Candle Support",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-04-a-300x300.jpg",
+        "price": 65,
+        "category": "decorations"
+    },
+    {
+        "id": 5,
+        "name": "Ceramic Pumpkin",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-06-a-300x300.jpg",
+        "price": 59,
+        "category": "decorations"
+    },
+    {
+        "id": 6,
+        "name": "Paper Pumpkin",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-05-a-300x300.jpg",
+        "price": 59,
+        "category": "decorations"
+    },
+    {
+        "id": 7,
+        "name": "Halloween Dress",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-09-a-300x300.jpg",
+        "price": 195,
+        "category": "costumes"
+    },
+    {
+        "id": 8,
+        "name": "Women Costume",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-07-a-300x300.jpg",
+        "price": 99,
+        "category": "costumes"
+    },
+    {
+        "id": 9,
+        "name": "Women Suit",
+        "image": "https://websitedemos.net/halloween-shop-04/wp-content/uploads/sites/1398/2023/09/product-08-a-300x300.jpg",
+        "price": 200,
+        "category": "costumes"
+    }
+]
